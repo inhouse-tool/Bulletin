@@ -314,14 +314,14 @@ Paste した URL がたしかに RSS ニュースの提供元だった場合,
 
 しかし, 「15ms」という数字は, Windows のタイマーの ( デフォルトの ) 分解能 15.625[ms] ( 1000/64[s] ) を下回る短さです.
 こんなに短いタイマー値では, お願いした通りの時間経過でタイマーが発動するとは限りません.
-本アプリ開発中に「そもそもタイマーってどうなの？」を検証するために [TP](../TP/README.md) ( Test Program ) を作って,
+本アプリ開発中に「そもそもタイマーってどうなの？」を検証するために [TP](../../../TP/) ( Test Program ) を作って,
 色々と検証してみて, その結果を踏まえて本アプリのタイマーの在り方を選びました.
 その結論が下記の通りです.
 
 * [`SetTimer`](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-settimer) ではスクロールがぎこちなくなる PC があったので, [`SetWaitableTimer`](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setwaitabletimer) を使用.
 *  [`timeBeginPeriod`](https://learn.microsoft.com/en-us/windows/win32/api/timeapi/nf-timeapi-timebeginperiod) を使うと CPU 使用率が上がる PC があったので, ( デフォルトでは ) 不使用.
 
-`timeBeginPeriod` に関しては, [TP](../TP/README.md) では使ってもそれほど CPU 使用率が上がりはしませんでしたが,
+`timeBeginPeriod` に関しては, [TP](../../../TP/) では使ってもそれほど CPU 使用率が上がりはしませんでしたが,
 それはタイマー起動される処理の軽さによるものでしょう.
 本アプリでは, タイマー起動される処理の中にグラフィックス操作が含まれるのですが, それが集計しかしていない TP とは異なります.
 この違いが如実に数字に表れました.
