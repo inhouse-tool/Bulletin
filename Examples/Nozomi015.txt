@@ -1,0 +1,83 @@
+08:09:00	!今日も、新幹線をご利用くださいまして、ありがとうございます。のぞみ15号{+博多}行です。途中の停車駅は、{+品川}、{+新横浜}、{+名古屋}、{+京都}、{+新大阪}、{+新神戸}、{+岡山}、{+広島}、{+新山口}、{+小倉}です。Welcome to the Shinkansen. This is the NOZOMI Super Express bound for {+Hakata}. We will be stopping at {+Shinagawa}, {+Shin-Yokohama}, {+Nagoya}, {+Kyoto}, {+Shin-Osaka}, {+Shin-Kobe}, {+Okayama}, {+Hiroshima}, {+Shin-Yamaguchi} and {+Kokura} stations before arriving at {+Hakata} terminal.
+08:12:00	|次は　　{+品　川}
+08:15:00	!まもなく{+品川}です。{+山手線}、{+京浜東北線}、{+東北}・{+高崎}・{+常磐線}、{+東海道線}、{+横須賀線}、{+総武線}と{+京浜急行線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+品川}を出ますと、次は{+新横浜}に停まります。。We will soon make a brief stop at {+Shinagawa}. Passengers going to the {+Yamanote}, {+Keihin-Tohoku}, {+Tohoku}, {+Takasaki}, {+Joban}, {+Tokaido}, {+Yokosuka}, {+Sobu} and {+Keihinkyuko} lines, please change trains here at {+Shinagawa}. We will depart shortly after arriving at {+Shinagawa}, so please be ready to get off before the train stops. Thank you.
+08:18:00	|!{+品　川}
+08:19:00	|次は　　{+新横浜}
+08:27:00	!まもなく{+新横浜}です。{+横浜線}、{+相鉄新横浜線}、{+東急新横浜線}と、{+市営地下鉄線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+新横浜}を出ますと、次は{+名古屋}に停まります。We will soon make a brief stop at {+Shin-Yokohama}. Passengers going to the {+Yokohama}, {+Sotetsu Shin-Yokohama}, {+Tokyu Shin-Yokohama}, and {+Municipal Subway lines}, please change trains here at {+Shin-Yokohama}. We will depart shortly after arriving at {+Shin-Yokohama}, so please be ready to get off before the train stops. Thank you.
+08:30:00	|!{+新　横　浜}
+08:31:00	|次は　　{+名古屋}
+08:43:26	ただいま{+小田原駅}を通過。Passing {+Odawara} station.
+	
+08:48:00	ただいま{+熱海駅}を通過。Passing {+Atami} station.
+	
+08:51:52	ただいま{+三島駅}を通過。Passing {+Mishima} station.
+	
+08:57:38	ただいま{+新富士駅}を通過。Passing {+Shin-Fuji} station.
+	
+09:05:31	ただいま{+静岡駅}を通過。Passing {+Shizuoka} station.
+	
+09:16:12	ただいま{+掛川駅}を通過。Passing {+Kakegawa} station.
+	
+09:22:55	ただいま{+浜松駅}を通過。Passing {+Hamamatsu} station.
+	
+09:31:30	ただいま{+豊橋駅}を通過。Passing {+Toyohashi} station.
+	
+09:40:54	ただいま{+三河安城駅}を通過。Passing {+Mikawa-Anjo} station.
+	
+09:45:00	!まもなく{+名古屋}です。{+東海道線}、{+中央線}、{+関西線}と{+名鉄線}、{+近鉄線}、{+あおなみ線}、{+地下鉄線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+名古屋}を出ますと、次は{+京都}に停まります。We will soon make a brief stop at {+Nagoya}. Passengers going to the {+Tokaido}, {+Chuo}, {+Kansai}, {+Meitetsu}, {+Kintetsu}, {+Aonami}, and {+subway lines}, please change trains here at {+Nagoya}. We will depart shortly after arriving at {+Nagoya}, so please be ready to get off before the train stops. Thank you.
+09:48:00	|!{+名　古　屋}
+09:49:00	|次は　　{+京　都}
+09:55:21	ただいま{+岐阜羽島駅}を通過。Passing {+Gifu-Hashima} station.
+	
+10:05:46	ただいま{+米原駅}を通過。Passing {+Maibara} station.
+	
+10:20:00	!まもなく{+京都}です。{+東海道線}、{+山陰線}、{+湖西線}、{+奈良線}と{+近鉄線}、{+地下鉄線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+京都}を出ますと、次は{+新大阪}に停まります。We will soon make a brief stop at {+Kyoto}. Passengers going to the {+Tokaido}, {+Sanin}, {+Kosei}, {+Nara}, {+Kintetsu} and {+subway lines}, please change trains here at {+Kyoto}. We will depart shortly after arriving at {+Kyoto}, so please be ready to get off before the train stops. Thank you.
+10:23:00	|!{+京　都}
+10:25:00	|次は　　{+新大阪}
+10:36:00	!まもなく{+新大阪}です。{+東海道線}、{+おおさか東線}と{+地下鉄線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+新大阪}を出ますと、次は{+新神戸}に停まります。We will soon make a brief stop at {+Shin-Osaka}. Passengers going to the {+Tokaido}, {+Osaka-Higashi}, and {+subway lines}, please change trains here at {+Shin-Osaka}. We will depart shortly after arriving at {+Shin-Osaka}, so please be ready to get off before the train stops. Thank you.
+10:39:00	|!{+新　大　阪}
+10:41:00	|次は　　{+新神戸}
+10:50:00	!まもなく{+新神戸}です。お出口は、左側です。{+地下鉄線（三ノ宮方面）}はお乗り換えです。{+地下鉄線}をご利用の方は、改札口を出て、地下ホームへおいでください。{+JR神戸線}をご利用のお客様は、黄色の自動改札機をご利用ください。電車とホームとの間が、少々空いているところがあります。お降りの際は、足元にご注意ください。小さなお子様をお連れのお客様は、手を繋いでお降りください。{+新神戸}を出ますと、次は{+岡山}に停まります。We will soon make a brief stop at {+Shin-Kobe}. The exit will be on the left side of the train. Passengers going to {+Sannomiya}, please change trains here for the subway line. We will depart shortly after arriving at {+Shin-Kobe}, so please be ready to get off before the train stops. Thank you.
+10:53:00	|!{+新　神　戸}
+10:54:00	|次は　　{+岡　山}
+10:59:22	ただいま{+西明石駅}を通過。Passing {+Nishi-Akashi} station.
+	
+	
+11:06:52	ただいま{+姫路駅}を通過。Passing {+Himeji} station.
+	
+11:11:43	ただいま{+相生駅}を通過。Passing {+Aioi} station.
+	
+11:22:00	!まもなく{+岡山}です。{+山陽線}、{+瀬戸大橋線}、{+宇野みなと線}、{+伯備線}、{+津山線}、{+赤穂線}、{+桃太郎線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+岡山}を出ますと、次は{+広島}に停まります。We will soon make a brief stop at {+Okayama}. Passengers going to the {+Sanyo}, {+Seto-Ohashi}, {+Uno-Port}, {+Hakubi}, {+Tsuyama}, {+Ako}, and {+Momotaro lines}, please change trains here at {+Okayama}. We will depart shortly after arriving at {+Okayama}, so please be ready to get off before the train stops. Thank you.
+11:25:00	|!{+岡　山}
+11:26:00	|次は　　{+広　島}
+11:32:25	ただいま{+新倉敷駅}を通過。Passing {+Shin-Kurashiki} station.
+	
+	
+11:40:06	ただいま{+福山駅}を通過。Passing {+Fukuyama} station.
+	
+11:44:25	ただいま{+新尾道駅}を通過。Passing {+Shin-Onomichi} station.
+	
+11:47:02	ただいま{+三原駅}を通過。Passing {+Mihara} station.
+	
+11:54:43	ただいま{+東広島駅}を通過。Passing {+Higashi-Hiroshima} station.
+	
+11:59:00	!まもなく{+広島}です。{+山陽線}、{+呉線}、{+可部線}、{+芸備線}はお乗り換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+広島}を出ますと、次は{+新山口}に停まります。We will soon make a brief stop at {+Hiroshima}. Passengers going to the {+Sanyo}, {+Kure}, {+Kabe}, and {+Geibi lines}, please change trains here at {+Hiroshima}. We will depart shortly after arriving at {+Hiroshima}, so please be ready to get off before the train stops. Thank you.
+12:02:00	|!{+広　島}
+12:03:00	|次は　　{+新山口}
+12:14:30	ただいま{+新岩国駅}を通過。Passing {+Shin-Iwakuni} station.
+	
+	
+12:24:26	ただいま{+徳山駅}を通過。Passing {+Tokuyama} station.
+	
+12:30:00	!まもなく{+新山口}です。{+山陽線}・{+宇部線}・{+山口線}はお乗り換えです。お降りの際は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+新山口}を出ますと次は{+小倉}に止まります。We will soon make a brief stop at {+Shin-Yamaguchi}. Passengers going to the Santyo, {+Ube}, and {+Yamaguchi lines}, please change trains here at {+Shin-Yamaguchi}. We will depart shortly after arriving at {+Shin-Yamaguchi}, so please be ready to get off before the train stops. Thank you.
+12:33:00	|!{+新山口}
+12:34:00	|次は　　{+小　倉}
+12:41:24	ただいま{+厚狭駅}を通過。Passing {+Asa} station.
+	
+12:47:36	ただいま{+新下関駅}を通過。Passing {+Shin-Shimonoseki} station.
+	
+12:50:00	!まもなく{+小倉}です。{+鹿児島線}、{+日豊線}、{+筑豊線}、{+日田彦山線}はお乗換えです。お降りの時は足元にご注意ください。今日も新幹線をご利用くださいましてありがとうございました。{+小倉}を出ますと次は終点{+博多}です。We will soon make a brief stop at {+Kokura}. Passengers going to the {+Nippo line}, all to local station {+Kagoshima line}, please change trains here at {+Kokura}. We will depart shortly after arriving at {+Kokura}, so please be ready to get off before the train stops. Thank you.
+12:53:00	|!{+小　倉}
+12:54:00	|次は　　{+博　多}
+13:06:00	!まもなく終点　{+博多}です。{+鹿児島線}、{+長崎線}、{+篠栗線}はお乗り換えです。{+地下鉄線}をご利用の方は、改札口を出て、地下ホームへおいでください。車内で出ました不要なものは、ゴミ箱にお捨てくださいますよう、車内美化にご協力をお願いいたします。電車とホームとの間が、少々空いているところがあります。お降りの際は、足元にご注意ください。小さなお子様をお連れのお客様は、手を繋いでお降りください。今日も、新幹線をご利用くださいまして、ありがとうございました。We will arrive at {+Hakata} terminal in a few minutes. Passengers going to the {+Kagoshima}, {+Nagasaki}, {+Sasaguri}, and {+subway lines}, please change trains here at {+Hakata} terminal. Thank you.
+13:09:00	|{+博　多}
